@@ -1,0 +1,5 @@
+name: MOFU_Apexassistplugin
+version: ${project.version}
+main: ine0056.com.github.mofu_apexassistplugin.MOFU_Apexassistplugin
+api-version: 1.16
+authors: [ 1necat ]
